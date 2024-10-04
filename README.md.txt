@@ -6,7 +6,6 @@ Hi there 👋
 "I am always enthusiastic about collaborating on exciting projects related to Text summarization, Text classification, Text Generation, Sentiment analysis, Question answering, NLP and more.
  Let's connect and explore the world of Artificial intelligence together! ✨🔍🖼️"
 
-
 * SDLC Phases: Hands-on experience in all phases of the Software Development Life Cycle (SDLC), including analysis, design, development, testing, and production.
 Big Data & Cloud Technologies: Extensive experience with Big Data tools like Hadoop, Spark, Cassandra, Hive, and cloud platforms like AWS, Google Cloud Platform (GCP), and Snowflake.
 
